@@ -21,11 +21,11 @@
 title: Backyard Critter Crawls
 description: >- # this means to ignore newlines until "baseurl:"
   A nature blog exploring the wonders of wildlife you can find in your local backyard
-baseurl: ""
+# baseurl: ""
 url: ""
 
 # Build settings
-theme: bcc_theme
+remote_theme: backyardcrittercrawls/bcc_jekyll_theme
 
 plugins:
   - jekyll-feed
