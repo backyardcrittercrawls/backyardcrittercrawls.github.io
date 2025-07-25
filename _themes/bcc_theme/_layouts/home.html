@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section class="hero">
+    <div class="hero-content">
+        <h1>Welcome to {{ site.title }}!</h1>
+        <p>{{ site.description }}</p>
+    </div>
+</section>
+
+
+
+{% if site.posts.size > 0 %}
+<section class="card" style="margin-top: 40px;">
+    <h2>Latest Posts</h2>
+    <div class="content-grid">
+        {% for post in site.posts limit:3 %}
+        <article class="card">
+            <div class="post-meta">{{ post.date | date: "%B %d, %Y" }}</div>
+            <h3><a href="{{ post.url | relative_url }}" style="color: #87a96b;">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+{% endif %} 
