@@ -2,6 +2,7 @@
 layout: default
 title: All Posts
 description: Browse all blog posts from Backyard Critter Crawls
+permalink: /posts/
 ---
 
 <section class="hero">
@@ -38,4 +39,4 @@ description: Browse all blog posts from Backyard Critter Crawls
     <h2>No posts yet</h2>
     <p>Check back soon for our first blog post!</p>
 </section>
-{% endif %} 
+{% endif %}
