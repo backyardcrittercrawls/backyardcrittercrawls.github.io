@@ -4,7 +4,7 @@ title:  "Eastern Redbacked Salamander"
 date:   2025-07-27 12:45:00 -0400
 categories: amphibians, salamander
 ---
-![Intro image]({{site.baseurl}}assets\eastern_redbacked_salamander\virginia_dwr.jpg)
+![Intro image](\assets\eastern_redbacked_salamander\virginia_dwr.jpg)
 *Courtesy of © 2025 Virginia Department of Wildlife Resources [^dwr]*
 
 ---
@@ -17,7 +17,7 @@ I was on a vernal pool excursion with the Audubon Society when these guys first 
 
 <br>
 <figure align="center">
-    <img src="{{site.baseurl}}assets\eastern_redbacked_salamander\redstriped.jpg" style="max-width: 60%; max-height: 60%"/>
+    <img src="\assets\eastern_redbacked_salamander\redstriped.jpg" style="max-width: 60%; max-height: 60%"/>
     <figcaption><i>The little buddy we found on that trip</i></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ After a few moments, our guide let the salamander go. As we watched it wriggle h
 These salamanders usually get between 2.2-4.0 inches, or 58-91 millimeters for non-Americans. They typically weigh around 1.5 grams, or 0.053 oz. And no, I don't know what 0.05 oz feels like despite being raised on these units. Females tend to be a little longer on average (3.07 in/78 mm) than males (2.87 in/73 mm),[^amwb] but their physical sexual dimorphism isn't as pronounced as some other amphibians in the area (looking at you, American toads!). They have long, slender bodies and short legs with four toes each. As a member of the <i>Plethodontidae</i> family, they don't have lungs --- instead breathing through their skin via cutaneous respiration![^sdz] That's a big reason it's so important to prepare before handling them and limit handling time. 
 
 <figure align="center">
-    <img src="{{site.baseurl}}assets\eastern_redbacked_salamander\leadbacked.jpg" style="max-width: 60%; max-height: 60%"/>
+    <img src="\assets\eastern_redbacked_salamander\leadbacked.jpg" style="max-width: 60%; max-height: 60%"/>
     <figcaption><i>A friend I found on another trip</i></figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Something especially cool about these animals is that they exhibit an obvious po
 
 ### Where do they live?
 <figure align="center">
-    <img src="{{site.baseurl}}assets\eastern_redbacked_salamander\iucn.jpg" style="max-width: 60%; max-height: 60%"/>
+    <img src="\assets\eastern_redbacked_salamander\iucn.jpg" style="max-width: 60%; max-height: 60%"/>
     <figcaption><i>Map of the eastern red-backed salamander's range from the IUCN</i></figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ The map above from the IUCN shows their current range.[^iucn] They're mostly rel
 A cool thing about these salamanders is that they're almost entirely unreliant on large bodies of water. In fact, they're one of the only amphibians in northern New England that don't really make use of bodies of water at all![^ori] Many amphibians lay their eggs and spend their juvenile stages in the water before metamorphosing to live on land. Instead of laying eggs in water, females lay eggs on land in damp places like under a rotting log or rock as seen below.[^mst] Mom keeps careful watch over her clutch of 1-14 eggs that hatch directly into miniature adults after 6-8 weeks. After about 1-3 more weeks with mom, they're ready to leave the nest and tackle the world![^vhs]
 
 <figure align="center">
-    <img src="{{site.baseurl}}assets\eastern_redbacked_salamander\eggs.jpg" style="max-width: 60%; max-height: 60%"/>
+    <img src="\assets\eastern_redbacked_salamander\eggs.jpg" style="max-width: 60%; max-height: 60%"/>
     <figcaption><i>Momma guarding her eggs, courtesy of mister-toad.com</i></figcaption>
 </figure>
 
