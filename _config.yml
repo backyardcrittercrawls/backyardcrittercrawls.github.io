@@ -27,5 +27,8 @@ url: ""
 # Build settings
 remote_theme: backyardcrittercrawls/bcc_jekyll_theme
 
+kramdown:
+  footnote_backlink:
+
 plugins:
   - jekyll-feed
