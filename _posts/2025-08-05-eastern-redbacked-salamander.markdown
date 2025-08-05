@@ -64,11 +64,7 @@ Fortunately, eastern red-backed salamanders are currently listed as least concer
 <br>
 
 ## Final Thoughts
-I really appreciate these creatures; without them, I don't think this blog would exist. Seeing people's eyes light up when they find one of these common creatures brings so much joy to my heart. I especially admire how they've learned to thrive in a terrestrial niche despite nearly all other salamanders being semi-aquatic. They show us how finding our niche allows us to succeed in the world. Their multiple coexisting morphs make me hope we can all get along no matter what we look like. These critters are truly a backyard treasure, and I hope you get to interact with one soon! 
-
-<br>
-
----
+I really appreciate these creatures; without them, I don't think this blog would exist. Seeing people's eyes light up when they find one of these common creatures brings so much joy to my heart. I especially admire how they've learned to thrive in a terrestrial niche despite nearly all other salamanders being semi-aquatic. They show us how finding our niche allows us to succeed in the world. Their multiple coexisting morphs make me hope we can all get along no matter what we look like. These critters are truly a backyard treasure, and I hope you get to interact with one soon!
 
 [^dwr]: [Virginia Department of Wildlife Resources](https://dwr.virginia.gov/wildlife/information/eastern-red-backed-salamander/)
 [^wiki]: [Wikipedia, Red-Backed Salamander](https://en.wikipedia.org/wiki/Red-backed_salamander)
